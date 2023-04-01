@@ -33,6 +33,7 @@
 ▶ Binary Search  <br>
 ▶ Merge Sort  <br>
 ▶ Quick Sort  <br>
+▶ Maximum Sum Subarray  <br>
 
 <h2>Backtracking algorithms:</h2> 
 ▶ N-Queens Problem  <br>
