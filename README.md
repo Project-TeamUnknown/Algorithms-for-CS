@@ -1,3 +1,5 @@
+In this repository, we have generate the implementation of the following algorithms in various languages like, C, C++, Java, Javascript, Java, Python, etc.
+
 <h1>Here are some algorithms that are generally considered important and useful for computer science students to know:</h1>
 
 <h2>Sorting algorithms:</h2>  
