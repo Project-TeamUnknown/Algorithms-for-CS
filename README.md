@@ -1,4 +1,4 @@
-In this repository, we have generated the implementation of the following algorithms in various languages like, C, C++, Java, Javascript, Java, Python, etc.
+In this repository, we have generated the implementation of the following algorithms in various languages like, C, C++, Java, Javascript, Python, etc.
 
 <h1>Here are some algorithms that are generally considered important and useful for computer science students to know:</h1>
 
