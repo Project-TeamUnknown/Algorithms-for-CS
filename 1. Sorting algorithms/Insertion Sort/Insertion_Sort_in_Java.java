@@ -1,4 +1,4 @@
-public class InsertionSort {
+public class Insertion_Sort_in_Java {
     
     public static void insertionSort(int[] arr) {
         int n = arr.length;
