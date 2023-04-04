@@ -1,4 +1,4 @@
-public class BinarySearch {
+public class Binary_Search_in_Java {
     public static int binarySearch(int[] arr, int target) {
         int low = 0;
         int high = arr.length - 1;
